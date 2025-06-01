@@ -9,14 +9,18 @@ Features
 - Visualizations including confusion matrices and label distribution plots
 Project Structure
 
+<pre>
 ds_project/
-├── email.csv                      # Labeled email dataset taken from kaggle
+├── email.csv                      # Labeled email dataset taken from Kaggle
 ├── spam_gui.py                    # GUI for spam prediction
 ├── try5_guiver.py                 # Model training and grid search
 ├── confusion_matrices/           # Saved confusion matrix images
 ├── all_confusion_matrices_grid.png
 ├── label_distribution.png
 ├── README.docx                    # This file
+</pre>
+
+
 
 How to Run
 1. Clone the repository:
